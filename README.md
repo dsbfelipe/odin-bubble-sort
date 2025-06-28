@@ -7,16 +7,6 @@
 
 This project is part of The Odin Project's Ruby course. In this assignment, I implemented the bubble sort algorithm to sort an array of numbers. The project was relatively easier compared to the others so far, as I had already implemented the bubble sort in both C and JavaScript a few times.
 
-<details open>
-<summary>
- Screenshots
-</summary> <br />
-    
-<p align="center">
-    <img src="screenshots/screenshot.png"/>
-
-</details>
-
 ## 📝 Project Objective
 
 The goal was to create a method called bubble_sort that sorts an array by comparing each element to the one next to it, swapping them if necessary. The process repeats until the array is sorted.
